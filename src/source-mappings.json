@@ -1,0 +1,28 @@
+// This file configures where the VMR synchronizes the sources from.
+// Each development repository has a mapping record which says where the remote repo is,
+// what files are in/excluded from the sync, etc.
+//
+// This file does not contain information about what version of sources is synchronized.
+// Please check the source-manifest.json file for that purpose.
+//
+// More details on this file's mechanics:
+// https://github.com/dotnet/arcade/blob/main/Documentation/UnifiedBuild/VMR-Design-And-Operation.md#repository-source-mappings
+{
+
+
+  // These defaults are added to all mappings unless `ignoreDefaults: true` is specified
+  // When no "include" filter is specified, "**/*" is used
+  // The default filters do not apply to submodules
+  // Only filters which start with submodule's path are applied when syncing submodules
+  "defaults": {
+      "defaultRef": "main"
+  },
+
+  // Each of these mappings has a corresponding folder in the src/ directory
+  "mappings": [
+      {
+          "name": "maestro-test1",
+          "defaultRemote": "https://github.com/maestro-auth-test/maestro-test1"
+      }
+  ]
+}
