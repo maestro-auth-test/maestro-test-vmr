@@ -2,5 +2,6 @@
 <Project>
   <PropertyGroup>
     <maestrotest1GitCommitHash>47ff5be79e6949bc0e687ef15f66f603f90c7e85</maestrotest1GitCommitHash>
+    <maestrotest2GitCommitHash>042387480514e7cb7c1935479b4db443a0245d3e</maestrotest2GitCommitHash>
   </PropertyGroup>
 </Project>
