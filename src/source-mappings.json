@@ -23,6 +23,14 @@
       {
           "name": "maestro-test1",
           "defaultRemote": "https://github.com/maestro-auth-test/maestro-test1"
+      },
+      {
+          "name": "maestro-test2",
+          "defaultRemote": "https://github.com/maestro-auth-test/maestro-test2"
+      },
+      {
+        "name": "maestro-test3",
+        "defaultRemote": "https://github.com/maestro-auth-test/maestro-test3"
       }
   ]
 }
