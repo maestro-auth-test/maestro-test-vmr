@@ -1,8 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project>
   <PropertyGroup>
-    <maestrotest1GitCommitHash>47ff5be79e6949bc0e687ef15f66f603f90c7e85</maestrotest1GitCommitHash>
-    <maestrotest2GitCommitHash>042387480514e7cb7c1935479b4db443a0245d3e</maestrotest2GitCommitHash>
-    <maestrotest3GitCommitHash>d763fca2d3109b161c85f971745066e90b4a5626</maestrotest3GitCommitHash>
+    <maestrotest1GitCommitHash>b86de5199f01bd2bbf20c28d679806356c30443e</maestrotest1GitCommitHash>
   </PropertyGroup>
 </Project>
