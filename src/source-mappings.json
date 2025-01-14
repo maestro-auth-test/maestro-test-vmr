@@ -31,10 +31,6 @@
       {
         "name": "maestro-test3",
         "defaultRemote": "https://github.com/maestro-auth-test/maestro-test3"
-      },
-      {
-        "name": "arcade",
-        "defaultRemote": "https://github.com/maestro-auth-test/fake-arcade"
       }
   ]
 }
