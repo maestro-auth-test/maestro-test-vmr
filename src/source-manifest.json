@@ -4,19 +4,18 @@
       "packageVersion": null,
       "barId": 100,
       "path": "maestro-test1",
-      "remoteUri": "https://github.com/maestro-auth-test/maestro-test1",
-      "commitSha": "6545ffd7228d13b1b124639885840b445e6774cb"
+      "remoteUri": "https://github.com/maestro-auth-test/maestro-test1"
     },
     {
       "packageVersion": null,
       "barId": null,
       "path": "maestro-test2",
       "remoteUri": "https://github.com/maestro-auth-test/maestro-test2",
-      "commitSha": "042387480514e7cb7c1935479b4db443a0245d3e"
+      "commitSha": "042387480514e7cb221935479b4db443a0245d3e"
     },
     {
       "packageVersion": null,
-      "barId": null,
+      "barId": 2,
       "path": "maestro-test3",
       "remoteUri": "https://github.com/maestro-auth-test/maestro-test3",
       "commitSha": "d763fca2d3109b161c85f971745066e90b4a5626"
