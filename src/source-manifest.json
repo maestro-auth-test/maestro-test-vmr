@@ -9,10 +9,10 @@
     },
     {
       "packageVersion": null,
-      "barId": 354,
+      "barId": 355,
       "path": "maestro-test1",
       "remoteUri": "https://github.com/maestro-auth-test/maestro-test1",
-      "commitSha": "7d0aa3c39a75f8a680b6b1e9d2b6439f47e73fb4"
+      "commitSha": "7d716542c23ceceeaf9118b0f29522691998a68f"
     },
     {
       "packageVersion": null,
