@@ -2,15 +2,27 @@
   "repositories": [
     {
       "barId": null,
+      "path": "arcade",
+      "remoteUri": "https://github.com/maestro-auth-test/fake-arcade",
+      "commitSha": "211de115e871f6a5c809ad7c1e33fe70328ff16a"
+    },
+    {
+      "barId": 282,
       "path": "maestro-test1",
       "remoteUri": "https://github.com/maestro-auth-test/maestro-test1",
-      "commitSha": "47ff5be79e6949bc0e687ef15f66f603f90c7e85"
+      "commitSha": "9609426e08e23b6574a4ed1cae8eaa09e10653fd"
     },
     {
       "barId": 70946,
       "path": "maestro-test2",
       "remoteUri": "https://github.com/maestro-auth-test/maestro-test2",
       "commitSha": "9eef6333b1357e7f91aeaff0700c52c6b7a54eab"
+    },
+    {
+      "barId": null,
+      "path": "maestro-test3",
+      "remoteUri": "https://github.com/maestro-auth-test/maestro-test3",
+      "commitSha": "d763fca2d3109b161c85f971745066e90b4a5626"
     }
   ],
   "submodules": []
