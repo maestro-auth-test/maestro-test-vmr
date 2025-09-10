@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Dependencies>
   <!-- Elements contains all product dependencies -->
-  <ProductDependencies></ProductDependencies>
+  <ProductDependencies>
+    <Dependency Name="VmrFoo.4762a136" Version="1.1.0">
+      <Uri>https://github.com/maestro-auth-test/maestro-test-vmr</Uri>
+      <Sha />
+    </Dependency>
+    <Dependency Name="VmrBar.4762a136" Version="2.1.0">
+      <Uri>https://github.com/maestro-auth-test/maestro-test-vmr</Uri>
+      <Sha />
+    </Dependency>
+    <Dependency Name="VmrBaz.4762a136" Version="3.1.0">
+      <Uri>https://github.com/maestro-auth-test/maestro-test-vmr</Uri>
+      <Sha />
+    </Dependency>
+  </ProductDependencies>
   <ToolsetDependencies>
     <Dependency Name="Microsoft.DotNet.Arcade.Sdk" Version="1.0.0-beta.1.9.1.22.1">
       <Uri>https://github.com/dotnet/arcade</Uri>
