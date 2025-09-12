@@ -2,9 +2,9 @@
 <Dependencies>
   <!-- Elements contains all product dependencies -->
   <ProductDependencies>
-    <Dependency Name="VmrBar.7b84d157" Version="2.1.0">
+    <Dependency Name="VmrBar.7b84d157" Version="2.1.1">
       <Uri>https://github.com/maestro-auth-test/maestro-test-vmr</Uri>
-      <Sha />
+      <Sha>cc1a27107a1f4c4bc5e2f796c5ef346f60abb404</Sha>
     </Dependency>
     <Dependency Name="VmrBaz.7b84d157" Version="3.1.0">
       <Uri>https://github.com/maestro-auth-test/maestro-test-vmr</Uri>
