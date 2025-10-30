@@ -7,10 +7,10 @@
       "commitSha": "211de115e871f6a5c809ad7c1e33fe70328ff16a"
     },
     {
-      "barId": 79170,
+      "barId": 79173,
       "path": "maestro-test1",
       "remoteUri": "https://github.com/maestro-auth-test/maestro-test1",
-      "commitSha": "c49636089270e328c7de8d9d3f438d3a18112ae1"
+      "commitSha": "30e2cc6e808713313211bd962f0ffde82e873081"
     },
     {
       "barId": null,
