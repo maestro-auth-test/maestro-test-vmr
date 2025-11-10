@@ -4,8 +4,8 @@
   </PropertyGroup>
   <!--Package versions-->
   <PropertyGroup>
-    <VmrFoodbeacedbPackageVersion>1.1.0</VmrFoodbeacedbPackageVersion>
-    <VmrBardbeacedbPackageVersion>2.1.0</VmrBardbeacedbPackageVersion>
+    <VmrFoodbeacedbPackageVersion>1.1.1</VmrFoodbeacedbPackageVersion>
+    <VmrBardbeacedbPackageVersion>2.1.1</VmrBardbeacedbPackageVersion>
     <VmrBazdbeacedbPackageVersion>3.1.0</VmrBazdbeacedbPackageVersion>
   </PropertyGroup>
 </Project>
