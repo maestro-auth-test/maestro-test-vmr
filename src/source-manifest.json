@@ -1,10 +1,10 @@
 {
   "repositories": [
     {
-      "barId": -1,
+      "barId": 80036,
       "path": "maestro-test1",
       "remoteUri": "https://github.com/maestro-auth-test/maestro-test1",
-      "commitSha": "f26ef0cff5a593a1508eeacbabfd03d1a3971ccc"
+      "commitSha": "8b79b787daa40a212364b4aadb1cf09e21ad825c"
     }
   ],
   "submodules": []
