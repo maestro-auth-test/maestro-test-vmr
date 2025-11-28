@@ -2,4 +2,9 @@
 <Project>
   <PropertyGroup>
   </PropertyGroup>
+  <!--Package versions-->
+  <PropertyGroup>
+    <VmrBare1af8410PackageVersion>2.1.0</VmrBare1af8410PackageVersion>
+    <VmrBaze1af8410PackageVersion>3.1.0</VmrBaze1af8410PackageVersion>
+  </PropertyGroup>
 </Project>
