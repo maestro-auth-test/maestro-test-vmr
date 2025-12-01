@@ -4,7 +4,7 @@
   </PropertyGroup>
   <!--Package versions-->
   <PropertyGroup>
-    <VmrBar67d710cePackageVersion>2.1.1</VmrBar67d710cePackageVersion>
+    <VmrBar67d710cePackageVersion>2.2.1</VmrBar67d710cePackageVersion>
     <VmrBaz67d710cePackageVersion>3.1.0</VmrBaz67d710cePackageVersion>
   </PropertyGroup>
 </Project>
