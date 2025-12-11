@@ -1,4 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project>
-  <PropertyGroup></PropertyGroup>
+  <PropertyGroup>
+  </PropertyGroup>
+  <!--Package versions-->
+  <PropertyGroup>
+    <VmrFoo69a4862aPackageVersion>1.1.0</VmrFoo69a4862aPackageVersion>
+    <VmrBar69a4862aPackageVersion>2.1.0</VmrBar69a4862aPackageVersion>
+    <VmrBaz69a4862aPackageVersion>3.1.0</VmrBaz69a4862aPackageVersion>
+  </PropertyGroup>
 </Project>
