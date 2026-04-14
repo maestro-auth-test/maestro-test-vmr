@@ -4,8 +4,8 @@
   </PropertyGroup>
   <!--Package versions-->
   <PropertyGroup>
-    <VmrFooa9673edfPackageVersion>1.1.0</VmrFooa9673edfPackageVersion>
-    <VmrBara9673edfPackageVersion>2.1.0</VmrBara9673edfPackageVersion>
+    <VmrFooa9673edfPackageVersion>1.1.1</VmrFooa9673edfPackageVersion>
+    <VmrBara9673edfPackageVersion>2.1.1</VmrBara9673edfPackageVersion>
     <VmrBaza9673edfPackageVersion>3.1.0</VmrBaza9673edfPackageVersion>
   </PropertyGroup>
 </Project>
