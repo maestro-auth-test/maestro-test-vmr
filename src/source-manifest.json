@@ -2,10 +2,10 @@
   "repositories": [
     {
       "packageVersion": null,
-      "barId": null,
+      "barId": 123,
       "path": "arcade",
       "remoteUri": "https://github.com/maestro-auth-test/fake-arcade",
-      "commitSha": "211de115e871f6a5c809ad7c1e33fe70328ff16a"
+      "commitSha": "123"
     },
     {
       "packageVersion": null,
