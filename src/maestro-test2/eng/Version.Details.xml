@@ -3,9 +3,9 @@
   <Source Uri="https://github.com/maestro-auth-test/maestro-test-vmr" Mapping="maestro-test2" Sha="741be891cf744b5a1dd2058f96580a326c427ec3" BarId="289" />
   <!-- Elements contains all product dependencies -->
   <ProductDependencies>
-    <Dependency Name="VmrBar.e181e48c" Version="2.1.0">
+    <Dependency Name="VmrBar.e181e48c" Version="2.1.1">
       <Uri>https://github.com/maestro-auth-test/maestro-test-vmr</Uri>
-      <Sha />
+      <Sha>cc1a27107a1f4c4bc5e2f796c5ef346f60abb404</Sha>
     </Dependency>
     <Dependency Name="VmrBaz.e181e48c" Version="3.1.0">
       <Uri>https://github.com/maestro-auth-test/maestro-test-vmr</Uri>
