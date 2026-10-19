@@ -6,7 +6,7 @@ This file should be imported by eng/Versions.props
 <Project>
   <PropertyGroup>
     <!-- maestro-auth-test-maestro-test-vmr dependencies -->
-    <VmrBarbfbff951PackageVersion>2.1.0</VmrBarbfbff951PackageVersion>
+    <VmrBarbfbff951PackageVersion>2.1.1</VmrBarbfbff951PackageVersion>
     <VmrBazbfbff951PackageVersion>3.1.0</VmrBazbfbff951PackageVersion>
   </PropertyGroup>
   <!--Property group for alternate package version names-->
