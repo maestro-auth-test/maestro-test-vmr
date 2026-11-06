@@ -4,7 +4,15 @@ Do not edit it manually, as it will get overwritten by automation.
 This file should be imported by eng/Versions.props
 -->
 <Project>
-  <PropertyGroup />
+  <PropertyGroup>
+    <!-- maestro-auth-test-maestro-test-vmr dependencies -->
+    <VmrBardd3c69fcPackageVersion>2.1.0</VmrBardd3c69fcPackageVersion>
+    <VmrBazdd3c69fcPackageVersion>3.1.0</VmrBazdd3c69fcPackageVersion>
+  </PropertyGroup>
   <!--Property group for alternate package version names-->
-  <PropertyGroup />
+  <PropertyGroup>
+    <!-- maestro-auth-test-maestro-test-vmr dependencies -->
+    <VmrBardd3c69fcVersion>$(VmrBardd3c69fcPackageVersion)</VmrBardd3c69fcVersion>
+    <VmrBazdd3c69fcVersion>$(VmrBazdd3c69fcPackageVersion)</VmrBazdd3c69fcVersion>
+  </PropertyGroup>
 </Project>
